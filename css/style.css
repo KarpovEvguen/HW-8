@@ -1,0 +1,50 @@
+#greycol{
+    color: gray;
+}
+h3:first-child{
+    color: rgb(240, 0, 208);
+}
+.yellow{
+    color: yellow;
+}
+.text-box div>p {
+    color: red;
+}
+p:nth-child(7){
+    color: green;
+}
+
+
+
+
+
+
+
+.monday-text:only-child{
+    background-color: orangered;
+    color: cyan;
+}
+
+.tuesday-item:nth-child(-n+4){
+    color: blue;
+}
+
+.tuesday-text{
+    background-color: cadetblue;
+}
+
+.wednesday-item:nth-child(3){
+    color: blue;
+}
+.wednesday-item:nth-child(4){
+    color:yellow;
+}
+
+.thirsday-text:first-child{
+    color: green;
+}
+
+
+.friday-text:nth-child(-n+2){
+    color: blueviolet;
+}
